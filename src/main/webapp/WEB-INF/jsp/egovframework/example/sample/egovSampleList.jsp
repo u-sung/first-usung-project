@@ -135,6 +135,9 @@
                   </li>
               </ul>
         	</div>
+        	<div>
+        	    추가함 업데이트 확인
+        	</div>
         </div>
     </form:form>
 </body>
